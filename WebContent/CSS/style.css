@@ -1,0 +1,155 @@
+body,html {
+	margin: 0px;
+	font-size: 9pt;
+	text-align: center;
+	background-color: #33424D;
+}
+
+#left {
+	height: 350px;
+	margin: 0px;
+	padding: 0px;
+	width: 182px;
+	float: left;
+	background-color: #FFFFFF;
+}
+
+#top {
+	padding-top: 0px;
+	font-size: 9pt;
+	width: 863px;
+	background-color: #FFFFFF;
+	margin: 0px;
+}
+
+#calendar {
+	height: 300px;
+	margin: 0px;
+	padding: 0px;
+	width: 681px;
+	float: left;
+	background-color: #FFFFFF;
+}
+
+#navigation {
+	background: url(../images/bg_navigation.gif) repeat-x;
+	height: 35px;
+	text-align: center;
+	line-height: 35px;
+	margin: 0;
+	padding: 0px;
+	width: 878px;
+}
+
+#copyright {
+	text-align: center;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	font-size: 9pt;
+	width: 863px;
+	background-color: #7ACCC8;
+	margin: 0px;
+}
+
+#copyright ul {
+	list-style: none;
+	line-height: 20px;
+	margin: 0px;
+	padding: 10px;
+}
+
+#main {
+	width: 863px;
+	height: 300px;
+	margin: 0px;
+	padding: 0px;
+	background-color: #FFFFFF;
+}
+
+form {
+	margin: 0px;
+}
+
+td {
+	font-size: 9pt;
+	line-height: 150%;
+}
+
+a:hover {
+	font-size: 9pt;
+	color: #FF4400;
+}
+
+a {
+	font-size: 9pt;
+	text-decoration: none;
+	color: #3C404D;
+}
+
+.btn_bg {
+	background-image: url(../images/bg_btn.gif);
+	border: #436E9B thin 1px;
+	width: 47px;
+	height: 20px;
+	padding: 4px;
+	color: #FFFFFF;
+	outline-color: #FFFFFF
+}
+
+.flag {
+	background-image: url(../images/flag.gif);
+	background-position: bottom right;
+	background-repeat: no-repeat;
+}
+
+input {
+	font-family: "ËÎÌו";
+	font-size: 9pt;
+	color: #333333;
+	border: 1px solid #000000;
+}
+
+.wenbenkuang {
+	font-size: 9pt;
+	color: #333333;
+	border: 1px solid #999999;
+	background-image: url(../images/mrbccd.jpg);
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+.word_white {
+	color: #FFFFFF;
+	font-size: 12px;
+}
+
+.word_red {
+	color: #FF4400;
+	font-size: 12px;
+}
+
+.word_darkGray {
+	color: #434343;
+}
+
+.word_blue {
+	color: #1B789D;
+}
+
+.word_big {
+	font-size: 14px;
+}
+
+.tableBorder {
+	border: #A2DAD7 3px solid;
+}
+
+hr {
+	width: 98%;
+	color: #000000;
+	height: 4px
+}
+
+.noborder {
+	border: none;
+}
